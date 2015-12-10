@@ -1,0 +1,1006 @@
+teamA,teamB,city,home_ground_of,rankTeamA,pointsTeamA,RatingTeamA,rankTeamB,pointsTeamB,RatingTeamB,winner
+Australia,New Zealand,Chandigarh,none,1,4889,129,3,4284,116,Australia
+South Africa,West Indies,Jaipur,none,4,5131,112,8,2471,88,West Indies
+Australia,West Indies,Mumbai,none,1,4889,129,8,2471,88,Australia
+South Africa,India,Durban,South Africa,4,5131,112,2,5278,117,South Africa
+South Africa,India,Cape Town,South Africa,4,5131,112,2,5278,117,South Africa
+South Africa,India,Port Elizabeth,South Africa,4,5131,112,2,5278,117,South Africa
+Bangladesh,Zimbabwe,Bogra,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+South Africa,India,Centurion,South Africa,4,5131,112,2,5278,117,South Africa
+Bangladesh,Zimbabwe,Bogra,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+Pakistan,West Indies,Faisalabad,Pakistan,9,3721,87,8,2471,88,Pakistan
+Bangladesh,Zimbabwe,Mirpur,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+Bangladesh,Zimbabwe,Mirpur,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+Pakistan,West Indies,Lahore,Pakistan,9,3721,87,8,2471,88,Pakistan
+Pakistan,West Indies,NA,Pakistan,9,3721,87,8,2471,88,West Indies
+Pakistan,West Indies,Karachi,Pakistan,9,3721,87,8,2471,88,Pakistan
+New Zealand,Sri Lanka,Napier,New Zealand,3,4284,116,5,5811,106,Sri Lanka
+New Zealand,Sri Lanka,Christchurch,New Zealand,3,4284,116,5,5811,106,New Zealand
+New Zealand,Sri Lanka,Auckland,New Zealand,3,4284,116,5,5811,106,Sri Lanka
+Australia,England,NA,Australia,1,4889,129,6,3968,98,Australia
+Australia,New Zealand,Hobart,Australia,1,4889,129,3,4284,116,Australia
+England,New Zealand,Hobart,none,6,3968,98,3,4284,116,England
+Australia,England,Brisbane,Australia,1,4889,129,6,3968,98,Australia
+Australia,New Zealand,NA,Australia,1,4889,129,3,4284,116,Australia
+England,New Zealand,NA,none,6,3968,98,3,4284,116,New Zealand
+Australia,England,NA,Australia,1,4889,129,6,3968,98,Australia
+India,West Indies,Chennai,India,2,5278,117,8,2471,88,West Indies
+Australia,New Zealand,Perth,Australia,1,4889,129,3,4284,116,Australia
+England,New Zealand,Perth,none,6,3968,98,3,4284,116,New Zealand
+India,West Indies,Vadodara,India,2,5278,117,8,2471,88,India
+Australia,England,NA,Australia,1,4889,129,6,3968,98,England
+Australia,New Zealand,NA,Australia,1,4889,129,3,4284,116,Australia
+South Africa,Pakistan,Centurion,South Africa,4,5131,112,9,3721,87,South Africa
+England,New Zealand,Brisbane,none,6,3968,98,3,4284,116,England
+South Africa,Pakistan,Durban,South Africa,4,5131,112,9,3721,87,Pakistan
+India,Sri Lanka,Kolkata,India,2,5278,117,5,5811,106,no result
+Australia,England,NA,Australia,1,4889,129,6,3968,98,England
+South Africa,Pakistan,Port Elizabeth,South Africa,4,5131,112,9,3721,87,no result
+Australia,England,NA,Australia,1,4889,129,6,3968,98,England
+India,Sri Lanka,Rajkot,India,2,5278,117,5,5811,106,Sri Lanka
+South Africa,Pakistan,Cape Town,South Africa,4,5131,112,9,3721,87,South Africa
+India,Sri Lanka,Margao,India,2,5278,117,5,5811,106,India
+South Africa,Pakistan,Johannesburg,South Africa,4,5131,112,9,3721,87,South Africa
+New Zealand,Australia,Wellington,New Zealand,3,4284,116,1,4889,129,New Zealand
+India,Sri Lanka,Visakhapatnam,India,2,5278,117,5,5811,106,India
+New Zealand,Australia,Auckland,New Zealand,3,4284,116,1,4889,129,New Zealand
+New Zealand,Australia,Hamilton,none,3,4284,116,1,4889,129,New Zealand
+West Indies,Pakistan,Jamaica,West Indies,8,2471,88,9,3721,87,West Indies
+Australia,Scotland,St Kitts,none,1,4889,129,14,200,25,Australia
+Ireland,Zimbabwe,Jamaica,none,10,549,50,11,1250,45,no result
+England,New Zealand,St Lucia,none,6,3968,98,3,4284,116,New Zealand
+Bangladesh,India,Trinidad,none,7,3094,96,2,5278,117,Bangladesh
+Ireland,Pakistan,Jamaica,none,10,549,50,9,3721,87,Ireland
+West Indies,Zimbabwe,Jamaica,West Indies,8,2471,88,11,1250,45,West Indies
+Scotland,South Africa,St Kitts,none,14,200,25,4,5131,112,South Africa
+Bangladesh,Sri Lanka,Trinidad,none,7,3094,96,5,5811,106,Sri Lanka
+Pakistan,Zimbabwe,Jamaica,none,9,3721,87,11,1250,45,Pakistan
+India,Sri Lanka,Trinidad,none,2,5278,117,5,5811,106,Sri Lanka
+West Indies,Ireland,Jamaica,West Indies,8,2471,88,10,549,50,West Indies
+Australia,South Africa,St Kitts,none,1,4889,129,4,5131,112,Australia
+West Indies,Australia,Antigua,West Indies,8,2471,88,1,4889,129,Australia
+South Africa,Sri Lanka,Guyana,none,4,5131,112,5,5811,106,South Africa
+West Indies,New Zealand,Antigua,West Indies,8,2471,88,3,4284,116,New Zealand
+England,Ireland,Guyana,none,6,3968,98,10,549,50,England
+Australia,Bangladesh,Antigua,none,1,4889,129,7,3094,96,Australia
+West Indies,Sri Lanka,Guyana,West Indies,8,2471,88,5,5811,106,Sri Lanka
+Bangladesh,New Zealand,Antigua,none,7,3094,96,3,4284,116,New Zealand
+Ireland,South Africa,Guyana,none,10,549,50,4,5131,112,South Africa
+England,Sri Lanka,Antigua,none,6,3968,98,5,5811,106,Sri Lanka
+Bangladesh,South Africa,Guyana,none,7,3094,96,4,5131,112,Bangladesh
+Australia,England,Antigua,none,1,4889,129,6,3968,98,Australia
+Ireland,New Zealand,Guyana,none,10,549,50,3,4284,116,New Zealand
+West Indies,South Africa,Grenada,West Indies,8,2471,88,4,5131,112,South Africa
+Bangladesh,England,Barbados,none,7,3094,96,6,3968,98,England
+New Zealand,Sri Lanka,Grenada,none,3,4284,116,5,5811,106,Sri Lanka
+Australia,Ireland,Barbados,none,1,4889,129,10,549,50,Australia
+New Zealand,South Africa,Grenada,none,3,4284,116,4,5131,112,New Zealand
+Bangladesh,Ireland,Barbados,none,7,3094,96,10,549,50,Ireland
+Australia,Sri Lanka,Grenada,none,1,4889,129,5,5811,106,Australia
+England,South Africa,Barbados,none,6,3968,98,4,5131,112,South Africa
+Ireland,Sri Lanka,Grenada,none,10,549,50,5,5811,106,Sri Lanka
+West Indies,Bangladesh,Barbados,West Indies,8,2471,88,7,3094,96,West Indies
+Australia,New Zealand,Grenada,none,1,4889,129,3,4284,116,Australia
+West Indies,England,Barbados,West Indies,8,2471,88,6,3968,98,England
+New Zealand,Sri Lanka,Jamaica,none,3,4284,116,5,5811,106,Sri Lanka
+Australia,South Africa,St Lucia,none,1,4889,129,4,5131,112,Australia
+Australia,Sri Lanka,Barbados,none,1,4889,129,5,5811,106,Australia
+Bangladesh,India,Mirpur,Bangladesh,7,3094,96,2,5278,117,India
+Bangladesh,India,Mirpur,Bangladesh,7,3094,96,2,5278,117,India
+Ireland,India,Belfast,Ireland,10,549,50,2,5278,117,India
+Ireland,South Africa,Belfast,Ireland,10,549,50,4,5131,112,South Africa
+India,South Africa,Belfast,none,2,5278,117,4,5131,112,South Africa
+India,South Africa,Belfast,none,2,5278,117,4,5131,112,India
+England,West Indies,London,England,6,3968,98,8,2471,88,England
+India,South Africa,Belfast,none,2,5278,117,4,5131,112,India
+England,West Indies,Birmingham,England,6,3968,98,8,2471,88,West Indies
+England,West Indies,Nottingham,England,6,3968,98,8,2471,88,West Indies
+Ireland,West Indies,Dublin,Ireland,10,549,50,8,2471,88,no result
+Sri Lanka,Bangladesh,Colombo,Sri Lanka,5,5811,106,7,3094,96,Sri Lanka
+Sri Lanka,Bangladesh,Colombo,Sri Lanka,5,5811,106,7,3094,96,Sri Lanka
+Sri Lanka,Bangladesh,Colombo,Sri Lanka,5,5811,106,7,3094,96,Sri Lanka
+Scotland,India,Glasgow,Scotland,14,200,25,2,5278,117,India
+England,India,Southampton,England,6,3968,98,2,5278,117,England
+Zimbabwe,South Africa,Bulawayo,Zimbabwe,11,1250,45,4,5131,112,South Africa
+England,India,Bristol,England,6,3968,98,2,5278,117,India
+Zimbabwe,South Africa,NA,Zimbabwe,11,1250,45,4,5131,112,South Africa
+Zimbabwe,South Africa,NA,Zimbabwe,11,1250,45,4,5131,112,South Africa
+England,India,Birmingham,England,6,3968,98,2,5278,117,England
+England,India,Manchester,England,6,3968,98,2,5278,117,England
+England,India,Leeds,England,6,3968,98,2,5278,117,India
+England,India,London,England,6,3968,98,2,5278,117,India
+England,India,London,England,6,3968,98,2,5278,117,England
+India,Australia,Bangalore,India,2,5278,117,1,4889,129,no result
+Sri Lanka,England,NA,Sri Lanka,5,5811,106,6,3968,98,Sri Lanka
+India,Australia,Kochi,India,2,5278,117,1,4889,129,Australia
+Sri Lanka,England,NA,Sri Lanka,5,5811,106,6,3968,98,England
+India,Australia,Hyderabad,India,2,5278,117,1,4889,129,Australia
+India,Australia,Chandigarh,India,2,5278,117,1,4889,129,India
+Sri Lanka,England,Colombo,Sri Lanka,5,5811,106,6,3968,98,England
+India,Australia,Vadodara,India,2,5278,117,1,4889,129,Australia
+Sri Lanka,England,Colombo,Sri Lanka,5,5811,106,6,3968,98,Sri Lanka
+India,Australia,Nagpur,India,2,5278,117,1,4889,129,Australia
+India,Australia,Mumbai,India,2,5278,117,1,4889,129,India
+Pakistan,South Africa,Lahore,Pakistan,9,3721,87,4,5131,112,South Africa
+Pakistan,South Africa,Lahore,Pakistan,9,3721,87,4,5131,112,Pakistan
+Pakistan,South Africa,Faisalabad,Pakistan,9,3721,87,4,5131,112,Pakistan
+Pakistan,South Africa,NA,Pakistan,9,3721,87,4,5131,112,South Africa
+Pakistan,South Africa,Lahore,Pakistan,9,3721,87,4,5131,112,South Africa
+India,Pakistan,Guwahati,India,2,5278,117,9,3721,87,India
+India,Pakistan,Chandigarh,India,2,5278,117,9,3721,87,Pakistan
+India,Pakistan,Kanpur,India,2,5278,117,9,3721,87,India
+India,Pakistan,Gwalior,India,2,5278,117,9,3721,87,India
+India,Pakistan,Jaipur,India,2,5278,117,9,3721,87,Pakistan
+South Africa,New Zealand,Durban,South Africa,4,5131,112,3,4284,116,South Africa
+South Africa,New Zealand,Port Elizabeth,South Africa,4,5131,112,3,4284,116,New Zealand
+Zimbabwe,West Indies,NA,Zimbabwe,11,1250,45,8,2471,88,Zimbabwe
+South Africa,New Zealand,Cape Town,South Africa,4,5131,112,3,4284,116,South Africa
+Zimbabwe,West Indies,NA,Zimbabwe,11,1250,45,8,2471,88,West Indies
+Zimbabwe,West Indies,Bulawayo,Zimbabwe,11,1250,45,8,2471,88,West Indies
+Australia,New Zealand,NA,Australia,1,4889,129,3,4284,116,Australia
+Australia,New Zealand,NA,Australia,1,4889,129,3,4284,116,no result
+Australia,New Zealand,Hobart,Australia,1,4889,129,3,4284,116,Australia
+New Zealand,Bangladesh,Auckland,New Zealand,3,4284,116,7,3094,96,New Zealand
+New Zealand,Bangladesh,Napier,New Zealand,3,4284,116,7,3094,96,New Zealand
+New Zealand,Bangladesh,NA,New Zealand,3,4284,116,7,3094,96,New Zealand
+South Africa,West Indies,Centurion,South Africa,4,5131,112,8,2471,88,South Africa
+Pakistan,Zimbabwe,Karachi,Pakistan,9,3721,87,11,1250,45,Pakistan
+Pakistan,Zimbabwe,Sind,Pakistan,9,3721,87,11,1250,45,Pakistan
+South Africa,West Indies,Cape Town,South Africa,4,5131,112,8,2471,88,South Africa
+Pakistan,Zimbabwe,NA,Pakistan,9,3721,87,11,1250,45,Pakistan
+South Africa,West Indies,Port Elizabeth,South Africa,4,5131,112,8,2471,88,South Africa
+Pakistan,Zimbabwe,Faisalabad,Pakistan,9,3721,87,11,1250,45,Pakistan
+South Africa,West Indies,Durban,South Africa,4,5131,112,8,2471,88,South Africa
+Pakistan,Zimbabwe,NA,Pakistan,9,3721,87,11,1250,45,Pakistan
+Australia,India,Brisbane,Australia,1,4889,129,2,5278,117,no result
+South Africa,West Indies,Johannesburg,South Africa,4,5131,112,8,2471,88,South Africa
+India,Sri Lanka,Brisbane,none,2,5278,117,5,5811,106,no result
+Australia,Sri Lanka,NA,Australia,1,4889,129,5,5811,106,Australia
+New Zealand,England,Wellington,New Zealand,3,4284,116,6,3968,98,New Zealand
+Australia,India,NA,Australia,1,4889,129,2,5278,117,India
+New Zealand,England,Hamilton,none,3,4284,116,6,3968,98,New Zealand
+Australia,Sri Lanka,Perth,Australia,1,4889,129,5,5811,106,Australia
+New Zealand,England,Auckland,New Zealand,3,4284,116,6,3968,98,England
+Australia,India,NA,Australia,1,4889,129,2,5278,117,Australia
+India,Sri Lanka,NA,none,2,5278,117,5,5811,106,India
+New Zealand,England,Napier,New Zealand,3,4284,116,6,3968,98,no result
+Australia,Sri Lanka,NA,Australia,1,4889,129,5,5811,106,Australia
+New Zealand,England,Christchurch,New Zealand,3,4284,116,6,3968,98,New Zealand
+Australia,India,NA,Australia,1,4889,129,2,5278,117,Australia
+India,Sri Lanka,Hobart,none,2,5278,117,5,5811,106,India
+Australia,Sri Lanka,NA,Australia,1,4889,129,5,5811,106,Sri Lanka
+Australia,India,NA,Australia,1,4889,129,2,5278,117,India
+Australia,India,Brisbane,Australia,1,4889,129,2,5278,117,India
+Bangladesh,South Africa,NA,Bangladesh,7,3094,96,4,5131,112,South Africa
+Bangladesh,South Africa,Mirpur,Bangladesh,7,3094,96,4,5131,112,South Africa
+Bangladesh,South Africa,Mirpur,Bangladesh,7,3094,96,4,5131,112,South Africa
+Pakistan,Bangladesh,Lahore,Pakistan,9,3721,87,7,3094,96,Pakistan
+West Indies,Sri Lanka,Trinidad,West Indies,8,2471,88,5,5811,106,West Indies
+Pakistan,Bangladesh,Faisalabad,Pakistan,9,3721,87,7,3094,96,Pakistan
+West Indies,Sri Lanka,Trinidad,West Indies,8,2471,88,5,5811,106,West Indies
+Pakistan,Bangladesh,Lahore,Pakistan,9,3721,87,7,3094,96,Pakistan
+West Indies,Sri Lanka,St Lucia,West Indies,8,2471,88,5,5811,106,no result
+Pakistan,Bangladesh,NA,Pakistan,9,3721,87,7,3094,96,Pakistan
+Pakistan,Bangladesh,Karachi,Pakistan,9,3721,87,7,3094,96,Pakistan
+Bangladesh,Pakistan,Mirpur,Bangladesh,7,3094,96,9,3721,87,Pakistan
+India,Pakistan,Mirpur,none,2,5278,117,9,3721,87,India
+Bangladesh,India,Mirpur,Bangladesh,7,3094,96,2,5278,117,India
+India,Pakistan,Mirpur,none,2,5278,117,9,3721,87,Pakistan
+England,New Zealand,Chester-le-Street,England,6,3968,98,3,4284,116,England
+England,New Zealand,Birmingham,England,6,3968,98,3,4284,116,no result
+England,New Zealand,Bristol,England,6,3968,98,3,4284,116,New Zealand
+Bangladesh,United Arab Emirates,Lahore,none,7,3094,96,13,300,32,Bangladesh
+West Indies,Australia,St Vincent,West Indies,8,2471,88,1,4889,129,Australia
+Bangladesh,Sri Lanka,Lahore,none,7,3094,96,5,5811,106,Sri Lanka
+England,New Zealand,London,England,6,3968,98,3,4284,116,New Zealand
+Pakistan,India,Karachi,Pakistan,9,3721,87,2,5278,117,India
+Sri Lanka,United Arab Emirates,Lahore,none,5,5811,106,13,300,32,Sri Lanka
+West Indies,Australia,Grenada,West Indies,8,2471,88,1,4889,129,Australia
+Bangladesh,India,Karachi,none,7,3094,96,2,5278,117,India
+England,New Zealand,London,England,6,3968,98,3,4284,116,New Zealand
+Pakistan,Sri Lanka,Karachi,Pakistan,9,3721,87,5,5811,106,Sri Lanka
+West Indies,Australia,Grenada,West Indies,8,2471,88,1,4889,129,Australia
+Bangladesh,Sri Lanka,Karachi,none,7,3094,96,5,5811,106,Sri Lanka
+Pakistan,India,Karachi,Pakistan,9,3721,87,2,5278,117,Pakistan
+India,Sri Lanka,Karachi,none,2,5278,117,5,5811,106,India
+Pakistan,Bangladesh,Karachi,Pakistan,9,3721,87,7,3094,96,Pakistan
+West Indies,Australia,St Kitts,West Indies,8,2471,88,1,4889,129,Australia
+India,Sri Lanka,Karachi,none,2,5278,117,5,5811,106,Sri Lanka
+West Indies,Australia,St Kitts,West Indies,8,2471,88,1,4889,129,Australia
+Ireland,Scotland,Dublin,Ireland,10,549,50,14,200,25,Ireland
+Sri Lanka,India,NA,Sri Lanka,5,5811,106,2,5278,117,Sri Lanka
+Sri Lanka,India,NA,Sri Lanka,5,5811,106,2,5278,117,India
+England,South Africa,Leeds,England,6,3968,98,4,5131,112,England
+Sri Lanka,India,Colombo,Sri Lanka,5,5811,106,2,5278,117,India
+England,South Africa,Nottingham,England,6,3968,98,4,5131,112,England
+Sri Lanka,India,Colombo,Sri Lanka,5,5811,106,2,5278,117,India
+England,South Africa,London,England,6,3968,98,4,5131,112,England
+Sri Lanka,India,Colombo,Sri Lanka,5,5811,106,2,5278,117,Sri Lanka
+Australia,Bangladesh,Darwin,Australia,1,4889,129,7,3094,96,Australia
+England,South Africa,London,England,6,3968,98,4,5131,112,England
+Australia,Bangladesh,Darwin,Australia,1,4889,129,7,3094,96,Australia
+England,South Africa,Cardiff,England,6,3968,98,4,5131,112,no result
+Australia,Bangladesh,Darwin,Australia,1,4889,129,7,3094,96,Australia
+Ireland,Zimbabwe,Nairobi,none,10,549,50,11,1250,45,Zimbabwe
+South Africa,Bangladesh,Potchefstroom,South Africa,4,5131,112,7,3094,96,South Africa
+Pakistan,West Indies,Abu Dhabi,none,9,3721,87,8,2471,88,Pakistan
+India,England,Rajkot,India,2,5278,117,6,3968,98,India
+Pakistan,West Indies,Abu Dhabi,none,9,3721,87,8,2471,88,Pakistan
+India,England,Indore,India,2,5278,117,6,3968,98,India
+India,England,Kanpur,India,2,5278,117,6,3968,98,India
+Zimbabwe,Sri Lanka,NA,Zimbabwe,11,1250,45,5,5811,106,Sri Lanka
+Zimbabwe,Sri Lanka,NA,Zimbabwe,11,1250,45,5,5811,106,Sri Lanka
+India,England,Bangalore,India,2,5278,117,6,3968,98,India
+Zimbabwe,Sri Lanka,NA,Zimbabwe,11,1250,45,5,5811,106,Sri Lanka
+India,England,Cuttack,India,2,5278,117,6,3968,98,India
+Zimbabwe,Sri Lanka,NA,Zimbabwe,11,1250,45,5,5811,106,Sri Lanka
+New Zealand,West Indies,NA,New Zealand,3,4284,116,8,2471,88,no result
+New Zealand,West Indies,Wellington,New Zealand,3,4284,116,8,2471,88,New Zealand
+Bangladesh,Zimbabwe,Mirpur,Bangladesh,7,3094,96,11,1250,45,Zimbabwe
+Bangladesh,Sri Lanka,Mirpur,Bangladesh,7,3094,96,5,5811,106,Bangladesh
+Australia,South Africa,NA,Australia,1,4889,129,4,5131,112,South Africa
+Australia,South Africa,Hobart,Australia,1,4889,129,4,5131,112,Australia
+Pakistan,Sri Lanka,Karachi,Pakistan,9,3721,87,5,5811,106,Pakistan
+Pakistan,Sri Lanka,Karachi,Pakistan,9,3721,87,5,5811,106,Sri Lanka
+Australia,South Africa,NA,Australia,1,4889,129,4,5131,112,South Africa
+Bangladesh,Zimbabwe,Mirpur,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+Pakistan,Sri Lanka,Lahore,Pakistan,9,3721,87,5,5811,106,Sri Lanka
+Australia,South Africa,NA,Australia,1,4889,129,4,5131,112,South Africa
+Sri Lanka,India,NA,Sri Lanka,5,5811,106,2,5278,117,India
+Australia,South Africa,Perth,Australia,1,4889,129,4,5131,112,South Africa
+Sri Lanka,India,Colombo,Sri Lanka,5,5811,106,2,5278,117,India
+Australia,New Zealand,Perth,Australia,1,4889,129,3,4284,116,New Zealand
+Sri Lanka,India,Colombo,Sri Lanka,5,5811,106,2,5278,117,India
+Sri Lanka,India,Colombo,Sri Lanka,5,5811,106,2,5278,117,India
+Australia,New Zealand,NA,Australia,1,4889,129,3,4284,116,New Zealand
+Australia,New Zealand,NA,Australia,1,4889,129,3,4284,116,Australia
+Sri Lanka,India,Colombo,Sri Lanka,5,5811,106,2,5278,117,Sri Lanka
+Australia,New Zealand,NA,Australia,1,4889,129,3,4284,116,Australia
+Australia,New Zealand,Brisbane,Australia,1,4889,129,3,4284,116,no result
+New Zealand,India,Napier,New Zealand,3,4284,116,2,5278,117,India
+New Zealand,India,Wellington,New Zealand,3,4284,116,2,5278,117,no result
+New Zealand,India,Christchurch,New Zealand,3,4284,116,2,5278,117,India
+New Zealand,India,Hamilton,none,3,4284,116,2,5278,117,India
+New Zealand,India,Auckland,New Zealand,3,4284,116,2,5278,117,New Zealand
+West Indies,England,Guyana,West Indies,8,2471,88,6,3968,98,England
+West Indies,England,Guyana,West Indies,8,2471,88,6,3968,98,West Indies
+West Indies,England,Barbados,West Indies,8,2471,88,6,3968,98,West Indies
+West Indies,England,Barbados,West Indies,8,2471,88,6,3968,98,England
+Ireland,Scotland,Benoni,none,10,549,50,14,200,25,Ireland
+South Africa,Australia,Durban,South Africa,4,5131,112,1,4889,129,Australia
+West Indies,England,St Lucia,West Indies,8,2471,88,6,3968,98,England
+South Africa,Australia,Centurion,South Africa,4,5131,112,1,4889,129,South Africa
+South Africa,Australia,Cape Town,South Africa,4,5131,112,1,4889,129,South Africa
+South Africa,Australia,Port Elizabeth,South Africa,4,5131,112,1,4889,129,South Africa
+South Africa,Australia,Johannesburg,South Africa,4,5131,112,1,4889,129,Australia
+Afghanistan,Scotland,Benoni,none,12,618,41,14,200,25,Afghanistan
+Australia,Pakistan,NA,none,1,4889,129,9,3721,87,Pakistan
+Australia,Pakistan,NA,none,1,4889,129,9,3721,87,Australia
+Australia,Pakistan,Abu Dhabi,none,1,4889,129,9,3721,87,Australia
+Australia,Pakistan,Abu Dhabi,none,1,4889,129,9,3721,87,Australia
+Australia,Pakistan,Abu Dhabi,none,1,4889,129,9,3721,87,Pakistan
+England,West Indies,Bristol,England,6,3968,98,8,2471,88,England
+England,West Indies,Birmingham,England,6,3968,98,8,2471,88,England
+West Indies,India,Jamaica,West Indies,8,2471,88,2,5278,117,India
+West Indies,India,Jamaica,West Indies,8,2471,88,2,5278,117,West Indies
+West Indies,India,St Lucia,West Indies,8,2471,88,2,5278,117,India
+West Indies,India,St Lucia,West Indies,8,2471,88,2,5278,117,no result
+West Indies,Bangladesh,Dominica,West Indies,8,2471,88,7,3094,96,Bangladesh
+West Indies,Bangladesh,Dominica,West Indies,8,2471,88,7,3094,96,Bangladesh
+Sri Lanka,Pakistan,NA,Sri Lanka,5,5811,106,9,3721,87,Sri Lanka
+West Indies,Bangladesh,St Kitts,West Indies,8,2471,88,7,3094,96,Bangladesh
+Sri Lanka,Pakistan,NA,Sri Lanka,5,5811,106,9,3721,87,Sri Lanka
+Sri Lanka,Pakistan,NA,Sri Lanka,5,5811,106,9,3721,87,Sri Lanka
+Sri Lanka,Pakistan,Colombo,Sri Lanka,5,5811,106,9,3721,87,Pakistan
+Sri Lanka,Pakistan,Colombo,Sri Lanka,5,5811,106,9,3721,87,Pakistan
+Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,11,1250,45,7,3094,96,Bangladesh
+Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,11,1250,45,7,3094,96,Bangladesh
+Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,11,1250,45,7,3094,96,Zimbabwe
+Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,11,1250,45,7,3094,96,Bangladesh
+Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,11,1250,45,7,3094,96,Bangladesh
+Ireland,England,Belfast,Ireland,10,549,50,6,3968,98,England
+England,Australia,London,England,6,3968,98,1,4889,129,Australia
+England,Australia,London,England,6,3968,98,1,4889,129,Australia
+Sri Lanka,New Zealand,Colombo,Sri Lanka,5,5811,106,3,4284,116,Sri Lanka
+England,Australia,Southampton,England,6,3968,98,1,4889,129,Australia
+India,New Zealand,Colombo,none,2,5278,117,3,4284,116,India
+England,Australia,London,England,6,3968,98,1,4889,129,Australia
+Sri Lanka,India,Colombo,Sri Lanka,5,5811,106,2,5278,117,Sri Lanka
+Sri Lanka,India,Colombo,Sri Lanka,5,5811,106,2,5278,117,India
+England,Australia,Nottingham,England,6,3968,98,1,4889,129,Australia
+England,Australia,Nottingham,England,6,3968,98,1,4889,129,Australia
+England,Australia,Chester-le-Street,England,6,3968,98,1,4889,129,England
+South Africa,Sri Lanka,Centurion,South Africa,4,5131,112,5,5811,106,Sri Lanka
+Pakistan,West Indies,Johannesburg,none,9,3721,87,8,2471,88,Pakistan
+South Africa,New Zealand,Centurion,South Africa,4,5131,112,3,4284,116,South Africa
+England,Sri Lanka,Johannesburg,none,6,3968,98,5,5811,106,England
+Australia,West Indies,Johannesburg,none,1,4889,129,8,2471,88,Australia
+India,Pakistan,Centurion,none,2,5278,117,9,3721,87,Pakistan
+New Zealand,Sri Lanka,Johannesburg,none,3,4284,116,5,5811,106,New Zealand
+South Africa,England,Centurion,South Africa,4,5131,112,6,3968,98,England
+Australia,India,Centurion,none,1,4889,129,2,5278,117,no result
+England,New Zealand,Johannesburg,none,6,3968,98,3,4284,116,New Zealand
+Australia,Pakistan,Centurion,none,1,4889,129,9,3721,87,Australia
+India,West Indies,Johannesburg,none,2,5278,117,8,2471,88,India
+Australia,England,Centurion,none,1,4889,129,6,3968,98,Australia
+New Zealand,Pakistan,Johannesburg,none,3,4284,116,9,3721,87,New Zealand
+Australia,New Zealand,Centurion,none,1,4889,129,3,4284,116,Australia
+India,Australia,Vadodara,India,2,5278,117,1,4889,129,Australia
+Bangladesh,Zimbabwe,Mirpur,Bangladesh,7,3094,96,11,1250,45,Zimbabwe
+India,Australia,Nagpur,India,2,5278,117,1,4889,129,India
+Bangladesh,Zimbabwe,Mirpur,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+Bangladesh,Zimbabwe,Mirpur,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+India,Australia,Delhi,India,2,5278,117,1,4889,129,India
+India,Australia,Chandigarh,India,2,5278,117,1,4889,129,Australia
+Bangladesh,Zimbabwe,Chittagong,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+New Zealand,Pakistan,Abu Dhabi,none,3,4284,116,9,3721,87,Pakistan
+Bangladesh,Zimbabwe,Chittagong,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+India,Australia,Hyderabad,India,2,5278,117,1,4889,129,Australia
+New Zealand,Pakistan,Abu Dhabi,none,3,4284,116,9,3721,87,New Zealand
+India,Australia,Guwahati,India,2,5278,117,1,4889,129,Australia
+South Africa,Zimbabwe,Benoni,South Africa,4,5131,112,11,1250,45,South Africa
+New Zealand,Pakistan,Abu Dhabi,none,3,4284,116,9,3721,87,New Zealand
+South Africa,Zimbabwe,Centurion,South Africa,4,5131,112,11,1250,45,South Africa
+South Africa,England,Centurion,South Africa,4,5131,112,6,3968,98,England
+South Africa,England,Cape Town,South Africa,4,5131,112,6,3968,98,South Africa
+South Africa,England,Port Elizabeth,South Africa,4,5131,112,6,3968,98,England
+India,Sri Lanka,Rajkot,India,2,5278,117,5,5811,106,India
+India,Sri Lanka,Nagpur,India,2,5278,117,5,5811,106,Sri Lanka
+India,Sri Lanka,Cuttack,India,2,5278,117,5,5811,106,India
+India,Sri Lanka,Kolkata,India,2,5278,117,5,5811,106,India
+India,Sri Lanka,Delhi,India,2,5278,117,5,5811,106,no result
+Bangladesh,Sri Lanka,Mirpur,Bangladesh,7,3094,96,5,5811,106,Sri Lanka
+India,Sri Lanka,Mirpur,none,2,5278,117,5,5811,106,Sri Lanka
+Bangladesh,India,Mirpur,Bangladesh,7,3094,96,2,5278,117,India
+Bangladesh,Sri Lanka,Mirpur,Bangladesh,7,3094,96,5,5811,106,Sri Lanka
+India,Sri Lanka,Mirpur,none,2,5278,117,5,5811,106,India
+Bangladesh,India,Mirpur,Bangladesh,7,3094,96,2,5278,117,India
+India,Sri Lanka,Mirpur,none,2,5278,117,5,5811,106,Sri Lanka
+Australia,Pakistan,Brisbane,Australia,1,4889,129,9,3721,87,Australia
+Australia,Pakistan,NA,Australia,1,4889,129,9,3721,87,Australia
+Australia,Pakistan,NA,Australia,1,4889,129,9,3721,87,Australia
+Australia,Pakistan,Perth,Australia,1,4889,129,9,3721,87,Australia
+Australia,Pakistan,Perth,Australia,1,4889,129,9,3721,87,Australia
+New Zealand,Bangladesh,Napier,New Zealand,3,4284,116,7,3094,96,New Zealand
+Australia,West Indies,NA,Australia,1,4889,129,8,2471,88,Australia
+New Zealand,Bangladesh,Dunedin,New Zealand,3,4284,116,7,3094,96,New Zealand
+Australia,West Indies,NA,Australia,1,4889,129,8,2471,88,Australia
+New Zealand,Bangladesh,Christchurch,New Zealand,3,4284,116,7,3094,96,New Zealand
+Australia,West Indies,NA,Australia,1,4889,129,8,2471,88,no result
+Australia,West Indies,Brisbane,Australia,1,4889,129,8,2471,88,Australia
+Australia,West Indies,NA,Australia,1,4889,129,8,2471,88,Australia
+India,South Africa,Jaipur,India,2,5278,117,4,5131,112,India
+India,South Africa,Gwalior,India,2,5278,117,4,5131,112,India
+India,South Africa,Ahmedabad,India,2,5278,117,4,5131,112,South Africa
+Bangladesh,England,Mirpur,Bangladesh,7,3094,96,6,3968,98,England
+Bangladesh,England,Mirpur,Bangladesh,7,3094,96,6,3968,98,England
+New Zealand,Australia,Napier,New Zealand,3,4284,116,1,4889,129,New Zealand
+West Indies,Zimbabwe,Guyana,West Indies,8,2471,88,11,1250,45,Zimbabwe
+Bangladesh,England,Chittagong,Bangladesh,7,3094,96,6,3968,98,England
+New Zealand,Australia,Auckland,New Zealand,3,4284,116,1,4889,129,Australia
+West Indies,Zimbabwe,Guyana,West Indies,8,2471,88,11,1250,45,West Indies
+New Zealand,Australia,Hamilton,none,3,4284,116,1,4889,129,Australia
+West Indies,Zimbabwe,St Vincent,West Indies,8,2471,88,11,1250,45,West Indies
+New Zealand,Australia,Auckland,New Zealand,3,4284,116,1,4889,129,Australia
+West Indies,Zimbabwe,St Vincent,West Indies,8,2471,88,11,1250,45,West Indies
+New Zealand,Australia,Wellington,New Zealand,3,4284,116,1,4889,129,New Zealand
+West Indies,Zimbabwe,St Vincent,West Indies,8,2471,88,11,1250,45,West Indies
+West Indies,South Africa,Antigua,West Indies,8,2471,88,4,5131,112,South Africa
+West Indies,South Africa,Antigua,West Indies,8,2471,88,4,5131,112,South Africa
+West Indies,South Africa,Dominica,West Indies,8,2471,88,4,5131,112,South Africa
+Zimbabwe,India,Bulawayo,Zimbabwe,11,1250,45,2,5278,117,Zimbabwe
+India,Sri Lanka,Bulawayo,none,2,5278,117,5,5811,106,India
+West Indies,South Africa,Dominica,West Indies,8,2471,88,4,5131,112,South Africa
+Zimbabwe,Sri Lanka,Bulawayo,Zimbabwe,11,1250,45,5,5811,106,Sri Lanka
+West Indies,South Africa,Trinidad,West Indies,8,2471,88,4,5131,112,South Africa
+Zimbabwe,India,NA,Zimbabwe,11,1250,45,2,5278,117,Zimbabwe
+India,Sri Lanka,NA,none,2,5278,117,5,5811,106,Sri Lanka
+Zimbabwe,Sri Lanka,NA,Zimbabwe,11,1250,45,5,5811,106,Zimbabwe
+Zimbabwe,Sri Lanka,NA,Zimbabwe,11,1250,45,5,5811,106,Sri Lanka
+Sri Lanka,Pakistan,NA,Sri Lanka,5,5811,106,9,3721,87,Sri Lanka
+Bangladesh,India,NA,none,7,3094,96,2,5278,117,India
+Ireland,Australia,Dublin,Ireland,10,549,50,1,4889,129,Australia
+Sri Lanka,Bangladesh,NA,Sri Lanka,5,5811,106,7,3094,96,Sri Lanka
+India,Pakistan,NA,none,2,5278,117,9,3721,87,India
+Bangladesh,Pakistan,NA,none,7,3094,96,9,3721,87,Pakistan
+England,Australia,Southampton,England,6,3968,98,1,4889,129,England
+Sri Lanka,India,NA,Sri Lanka,5,5811,106,2,5278,117,Sri Lanka
+England,Australia,Cardiff,England,6,3968,98,1,4889,129,England
+Sri Lanka,India,NA,Sri Lanka,5,5811,106,2,5278,117,India
+England,Australia,Manchester,England,6,3968,98,1,4889,129,England
+England,Australia,London,England,6,3968,98,1,4889,129,Australia
+England,Australia,London,England,6,3968,98,1,4889,129,Australia
+England,Bangladesh,Nottingham,England,6,3968,98,7,3094,96,England
+England,Bangladesh,Bristol,England,6,3968,98,7,3094,96,Bangladesh
+England,Bangladesh,Birmingham,England,6,3968,98,7,3094,96,England
+Ireland,Bangladesh,Belfast,Ireland,10,549,50,7,3094,96,Bangladesh
+India,New Zealand,NA,none,2,5278,117,3,4284,116,New Zealand
+Sri Lanka,New Zealand,NA,Sri Lanka,5,5811,106,3,4284,116,Sri Lanka
+Scotland,Afghanistan,Ayr,Scotland,14,200,25,12,618,41,Afghanistan
+Sri Lanka,India,NA,Sri Lanka,5,5811,106,2,5278,117,India
+Scotland,Afghanistan,Ayr,Scotland,14,200,25,12,618,41,Scotland
+Sri Lanka,New Zealand,NA,Sri Lanka,5,5811,106,3,4284,116,no result
+Sri Lanka,India,NA,Sri Lanka,5,5811,106,2,5278,117,Sri Lanka
+India,New Zealand,NA,none,2,5278,117,3,4284,116,India
+Sri Lanka,India,NA,Sri Lanka,5,5811,106,2,5278,117,Sri Lanka
+England,Pakistan,Chester-le-Street,England,6,3968,98,9,3721,87,England
+England,Pakistan,Leeds,England,6,3968,98,9,3721,87,England
+England,Pakistan,London,England,6,3968,98,9,3721,87,Pakistan
+England,Pakistan,London,England,6,3968,98,9,3721,87,Pakistan
+England,Pakistan,Southampton,England,6,3968,98,9,3721,87,England
+Bangladesh,New Zealand,Mirpur,Bangladesh,7,3094,96,3,4284,116,Bangladesh
+Bangladesh,New Zealand,Mirpur,Bangladesh,7,3094,96,3,4284,116,Bangladesh
+Bangladesh,New Zealand,Mirpur,Bangladesh,7,3094,96,3,4284,116,Bangladesh
+South Africa,Zimbabwe,Bloemfontein,South Africa,4,5131,112,11,1250,45,South Africa
+Bangladesh,New Zealand,Mirpur,Bangladesh,7,3094,96,3,4284,116,Bangladesh
+South Africa,Zimbabwe,Potchefstroom,South Africa,4,5131,112,11,1250,45,South Africa
+India,Australia,Visakhapatnam,India,2,5278,117,1,4889,129,India
+South Africa,Zimbabwe,Benoni,South Africa,4,5131,112,11,1250,45,South Africa
+Pakistan,South Africa,Abu Dhabi,none,9,3721,87,4,5131,112,South Africa
+Pakistan,South Africa,Abu Dhabi,none,9,3721,87,4,5131,112,Pakistan
+Pakistan,South Africa,NA,none,9,3721,87,4,5131,112,South Africa
+Australia,Sri Lanka,NA,Australia,1,4889,129,5,5811,106,Sri Lanka
+Australia,Sri Lanka,NA,Australia,1,4889,129,5,5811,106,Sri Lanka
+Pakistan,South Africa,NA,none,9,3721,87,4,5131,112,Pakistan
+Australia,Sri Lanka,Brisbane,Australia,1,4889,129,5,5811,106,Australia
+Pakistan,South Africa,NA,none,9,3721,87,4,5131,112,South Africa
+India,New Zealand,Guwahati,India,2,5278,117,3,4284,116,India
+Bangladesh,Zimbabwe,Mirpur,Bangladesh,7,3094,96,11,1250,45,Zimbabwe
+India,New Zealand,Jaipur,India,2,5278,117,3,4284,116,India
+Bangladesh,Zimbabwe,Mirpur,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+India,New Zealand,Vadodara,India,2,5278,117,3,4284,116,India
+Bangladesh,Zimbabwe,Mirpur,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+India,New Zealand,Bangalore,India,2,5278,117,3,4284,116,India
+India,New Zealand,Chennai,India,2,5278,117,3,4284,116,India
+Bangladesh,Zimbabwe,Chittagong,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+South Africa,India,Durban,South Africa,4,5131,112,2,5278,117,South Africa
+South Africa,India,Johannesburg,South Africa,4,5131,112,2,5278,117,India
+Australia,England,NA,Australia,1,4889,129,6,3968,98,Australia
+South Africa,India,Cape Town,South Africa,4,5131,112,2,5278,117,India
+Australia,England,Hobart,Australia,1,4889,129,6,3968,98,Australia
+South Africa,India,Port Elizabeth,South Africa,4,5131,112,2,5278,117,South Africa
+New Zealand,Pakistan,Wellington,New Zealand,3,4284,116,9,3721,87,New Zealand
+Australia,England,NA,Australia,1,4889,129,6,3968,98,Australia
+South Africa,India,Centurion,South Africa,4,5131,112,2,5278,117,South Africa
+Australia,England,NA,Australia,1,4889,129,6,3968,98,England
+New Zealand,Pakistan,NA,New Zealand,3,4284,116,9,3721,87,no result
+New Zealand,Pakistan,Christchurch,New Zealand,3,4284,116,9,3721,87,Pakistan
+Australia,England,Brisbane,Australia,1,4889,129,6,3968,98,Australia
+Sri Lanka,West Indies,Colombo,Sri Lanka,5,5811,106,8,2471,88,no result
+New Zealand,Pakistan,Napier,New Zealand,3,4284,116,9,3721,87,Pakistan
+Australia,England,NA,Australia,1,4889,129,6,3968,98,Australia
+New Zealand,Pakistan,Hamilton,none,3,4284,116,9,3721,87,Pakistan
+Sri Lanka,West Indies,Colombo,Sri Lanka,5,5811,106,8,2471,88,Sri Lanka
+New Zealand,Pakistan,Auckland,New Zealand,3,4284,116,9,3721,87,New Zealand
+Australia,England,Perth,Australia,1,4889,129,6,3968,98,Australia
+Sri Lanka,West Indies,Colombo,Sri Lanka,5,5811,106,8,2471,88,Sri Lanka
+Bangladesh,India,Mirpur,Bangladesh,7,3094,96,2,5278,117,India
+Australia,Zimbabwe,Ahmedabad,none,1,4889,129,11,1250,45,Australia
+South Africa,West Indies,Delhi,none,4,5131,112,8,2471,88,South Africa
+Australia,New Zealand,Nagpur,none,1,4889,129,3,4284,116,Australia
+Bangladesh,Ireland,Mirpur,Bangladesh,7,3094,96,10,549,50,Bangladesh
+Sri Lanka,Pakistan,Colombo,Sri Lanka,5,5811,106,9,3721,87,Pakistan
+India,England,Bangalore,India,2,5278,117,6,3968,98,no result
+England,Ireland,Bangalore,none,6,3968,98,10,549,50,Ireland
+Bangladesh,West Indies,Mirpur,Bangladesh,7,3094,96,8,2471,88,West Indies
+New Zealand,Zimbabwe,Ahmedabad,none,3,4284,116,11,1250,45,New Zealand
+Sri Lanka,Australia,Colombo,Sri Lanka,5,5811,106,1,4889,129,no result
+England,South Africa,Chennai,none,6,3968,98,4,5131,112,England
+India,Ireland,Bangalore,India,2,5278,117,10,549,50,India
+New Zealand,Pakistan,NA,none,3,4284,116,9,3721,87,New Zealand
+Sri Lanka,Zimbabwe,NA,Sri Lanka,5,5811,106,11,1250,45,Sri Lanka
+Bangladesh,England,Chittagong,Bangladesh,7,3094,96,6,3968,98,Bangladesh
+Ireland,West Indies,Chandigarh,none,10,549,50,8,2471,88,West Indies
+India,South Africa,Nagpur,India,2,5278,117,4,5131,112,South Africa
+Pakistan,Zimbabwe,NA,none,9,3721,87,11,1250,45,Pakistan
+Ireland,South Africa,Kolkata,none,10,549,50,4,5131,112,South Africa
+England,West Indies,Chennai,none,6,3968,98,8,2471,88,England
+New Zealand,Sri Lanka,Mumbai,none,3,4284,116,5,5811,106,Sri Lanka
+Australia,Pakistan,Colombo,none,1,4889,129,9,3721,87,Pakistan
+Bangladesh,South Africa,Mirpur,Bangladesh,7,3094,96,4,5131,112,South Africa
+India,West Indies,Chennai,India,2,5278,117,8,2471,88,India
+Pakistan,West Indies,Mirpur,none,9,3721,87,8,2471,88,Pakistan
+India,Australia,Ahmedabad,India,2,5278,117,1,4889,129,India
+New Zealand,South Africa,Mirpur,none,3,4284,116,4,5131,112,New Zealand
+Sri Lanka,England,Colombo,Sri Lanka,5,5811,106,6,3968,98,Sri Lanka
+Sri Lanka,New Zealand,Colombo,Sri Lanka,5,5811,106,3,4284,116,Sri Lanka
+India,Pakistan,Chandigarh,India,2,5278,117,9,3721,87,India
+India,Sri Lanka,Mumbai,India,2,5278,117,5,5811,106,India
+Bangladesh,Australia,Mirpur,Bangladesh,7,3094,96,1,4889,129,Australia
+Bangladesh,Australia,Mirpur,Bangladesh,7,3094,96,1,4889,129,Australia
+Bangladesh,Australia,Mirpur,Bangladesh,7,3094,96,1,4889,129,Australia
+West Indies,Pakistan,St Lucia,West Indies,8,2471,88,9,3721,87,Pakistan
+West Indies,Pakistan,St Lucia,West Indies,8,2471,88,9,3721,87,Pakistan
+West Indies,Pakistan,Barbados,West Indies,8,2471,88,9,3721,87,Pakistan
+West Indies,Pakistan,Barbados,West Indies,8,2471,88,9,3721,87,West Indies
+West Indies,Pakistan,Guyana,West Indies,8,2471,88,9,3721,87,West Indies
+West Indies,India,Trinidad,West Indies,8,2471,88,2,5278,117,India
+West Indies,India,Trinidad,West Indies,8,2471,88,2,5278,117,India
+West Indies,India,Antigua,West Indies,8,2471,88,2,5278,117,India
+West Indies,India,Antigua,West Indies,8,2471,88,2,5278,117,West Indies
+West Indies,India,Jamaica,West Indies,8,2471,88,2,5278,117,West Indies
+England,Sri Lanka,London,England,6,3968,98,5,5811,106,England
+England,Sri Lanka,Leeds,England,6,3968,98,5,5811,106,Sri Lanka
+England,Sri Lanka,London,England,6,3968,98,5,5811,106,Sri Lanka
+England,Sri Lanka,Nottingham,England,6,3968,98,5,5811,106,England
+England,Sri Lanka,Manchester,England,6,3968,98,5,5811,106,England
+Sri Lanka,Australia,NA,Sri Lanka,5,5811,106,1,4889,129,Australia
+Zimbabwe,Bangladesh,NA,Zimbabwe,11,1250,45,7,3094,96,Zimbabwe
+Sri Lanka,Australia,Hambantota,Sri Lanka,5,5811,106,1,4889,129,Australia
+Zimbabwe,Bangladesh,NA,Zimbabwe,11,1250,45,7,3094,96,Zimbabwe
+Sri Lanka,Australia,Hambantota,Sri Lanka,5,5811,106,1,4889,129,Sri Lanka
+Zimbabwe,Bangladesh,NA,Zimbabwe,11,1250,45,7,3094,96,Zimbabwe
+Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,11,1250,45,7,3094,96,Bangladesh
+Sri Lanka,Australia,Colombo,Sri Lanka,5,5811,106,1,4889,129,Australia
+Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,11,1250,45,7,3094,96,Bangladesh
+Sri Lanka,Australia,Colombo,Sri Lanka,5,5811,106,1,4889,129,Sri Lanka
+Ireland,England,Dublin,Ireland,10,549,50,6,3968,98,England
+England,India,Chester-le-Street,England,6,3968,98,2,5278,117,no result
+England,India,Southampton,England,6,3968,98,2,5278,117,England
+Zimbabwe,Pakistan,Bulawayo,Zimbabwe,11,1250,45,9,3721,87,Pakistan
+England,India,London,England,6,3968,98,2,5278,117,England
+England,India,London,England,6,3968,98,2,5278,117,no result
+Zimbabwe,Pakistan,NA,Zimbabwe,11,1250,45,9,3721,87,Pakistan
+Zimbabwe,Pakistan,NA,Zimbabwe,11,1250,45,9,3721,87,Pakistan
+England,India,Cardiff,England,6,3968,98,2,5278,117,England
+Bangladesh,West Indies,Mirpur,Bangladesh,7,3094,96,8,2471,88,West Indies
+India,England,Hyderabad,India,2,5278,117,6,3968,98,India
+Bangladesh,West Indies,Mirpur,Bangladesh,7,3094,96,8,2471,88,West Indies
+India,England,Delhi,India,2,5278,117,6,3968,98,India
+Bangladesh,West Indies,Chittagong,Bangladesh,7,3094,96,8,2471,88,Bangladesh
+South Africa,Australia,Centurion,South Africa,4,5131,112,1,4889,129,Australia
+India,England,Chandigarh,India,2,5278,117,6,3968,98,India
+Zimbabwe,New Zealand,NA,Zimbabwe,11,1250,45,3,4284,116,New Zealand
+Zimbabwe,New Zealand,NA,Zimbabwe,11,1250,45,3,4284,116,New Zealand
+India,England,Mumbai,India,2,5278,117,6,3968,98,India
+South Africa,Australia,Port Elizabeth,South Africa,4,5131,112,1,4889,129,South Africa
+India,England,Kolkata,India,2,5278,117,6,3968,98,India
+Zimbabwe,New Zealand,Bulawayo,Zimbabwe,11,1250,45,3,4284,116,Zimbabwe
+South Africa,Australia,Durban,South Africa,4,5131,112,1,4889,129,Australia
+Pakistan,Sri Lanka,NA,none,9,3721,87,5,5811,106,Pakistan
+Pakistan,Sri Lanka,NA,none,9,3721,87,5,5811,106,Sri Lanka
+Pakistan,Sri Lanka,NA,none,9,3721,87,5,5811,106,Pakistan
+Pakistan,Sri Lanka,NA,none,9,3721,87,5,5811,106,Pakistan
+Pakistan,Sri Lanka,Abu Dhabi,none,9,3721,87,5,5811,106,Pakistan
+India,West Indies,Cuttack,India,2,5278,117,8,2471,88,India
+Bangladesh,Pakistan,Mirpur,Bangladesh,7,3094,96,9,3721,87,Pakistan
+India,West Indies,Visakhapatnam,India,2,5278,117,8,2471,88,India
+Bangladesh,Pakistan,Mirpur,Bangladesh,7,3094,96,9,3721,87,Pakistan
+India,West Indies,Ahmedabad,India,2,5278,117,8,2471,88,West Indies
+Bangladesh,Pakistan,Chittagong,Bangladesh,7,3094,96,9,3721,87,Pakistan
+India,West Indies,Indore,India,2,5278,117,8,2471,88,India
+India,West Indies,Chennai,India,2,5278,117,8,2471,88,India
+South Africa,Sri Lanka,Paarl,South Africa,4,5131,112,5,5811,106,South Africa
+South Africa,Sri Lanka,East London,South Africa,4,5131,112,5,5811,106,South Africa
+South Africa,Sri Lanka,Bloemfontein,South Africa,4,5131,112,5,5811,106,South Africa
+South Africa,Sri Lanka,Kimberley,South Africa,4,5131,112,5,5811,106,Sri Lanka
+South Africa,Sri Lanka,Johannesburg,South Africa,4,5131,112,5,5811,106,Sri Lanka
+New Zealand,Zimbabwe,Dunedin,New Zealand,3,4284,116,11,1250,45,New Zealand
+Australia,India,NA,Australia,1,4889,129,2,5278,117,Australia
+New Zealand,Zimbabwe,Whangarei,New Zealand,3,4284,116,11,1250,45,New Zealand
+India,Sri Lanka,Perth,none,2,5278,117,5,5811,106,India
+New Zealand,Zimbabwe,Napier,New Zealand,3,4284,116,11,1250,45,New Zealand
+Afghanistan,Pakistan,NA,none,12,618,41,9,3721,87,Pakistan
+Australia,Sri Lanka,Perth,Australia,1,4889,129,5,5811,106,Australia
+Australia,India,NA,Australia,1,4889,129,2,5278,117,India
+England,Pakistan,Abu Dhabi,none,6,3968,98,9,3721,87,England
+India,Sri Lanka,NA,none,2,5278,117,5,5811,106,no result
+England,Pakistan,Abu Dhabi,none,6,3968,98,9,3721,87,England
+Australia,Sri Lanka,NA,Australia,1,4889,129,5,5811,106,Sri Lanka
+England,Pakistan,NA,none,6,3968,98,9,3721,87,England
+Australia,India,Brisbane,Australia,1,4889,129,2,5278,117,Australia
+England,Pakistan,NA,none,6,3968,98,9,3721,87,England
+India,Sri Lanka,Brisbane,none,2,5278,117,5,5811,106,Sri Lanka
+Australia,Sri Lanka,Hobart,Australia,1,4889,129,5,5811,106,Sri Lanka
+New Zealand,South Africa,Wellington,New Zealand,3,4284,116,4,5131,112,South Africa
+Australia,India,NA,Australia,1,4889,129,2,5278,117,Australia
+India,Sri Lanka,Hobart,none,2,5278,117,5,5811,106,India
+New Zealand,South Africa,Napier,New Zealand,3,4284,116,4,5131,112,South Africa
+Australia,Sri Lanka,NA,Australia,1,4889,129,5,5811,106,Sri Lanka
+New Zealand,South Africa,Auckland,New Zealand,3,4284,116,4,5131,112,South Africa
+Australia,Sri Lanka,Brisbane,Australia,1,4889,129,5,5811,106,Australia
+Australia,Sri Lanka,NA,Australia,1,4889,129,5,5811,106,Sri Lanka
+Australia,Sri Lanka,NA,Australia,1,4889,129,5,5811,106,Australia
+Bangladesh,Pakistan,Mirpur,Bangladesh,7,3094,96,9,3721,87,Pakistan
+India,Sri Lanka,Mirpur,none,2,5278,117,5,5811,106,India
+Pakistan,Sri Lanka,Mirpur,none,9,3721,87,5,5811,106,Pakistan
+Bangladesh,India,Mirpur,Bangladesh,7,3094,96,2,5278,117,Bangladesh
+West Indies,Australia,St Vincent,West Indies,8,2471,88,1,4889,129,Australia
+India,Pakistan,Mirpur,none,2,5278,117,9,3721,87,India
+West Indies,Australia,St Vincent,West Indies,8,2471,88,1,4889,129,West Indies
+Bangladesh,Sri Lanka,Mirpur,Bangladesh,7,3094,96,5,5811,106,Bangladesh
+West Indies,Australia,St Vincent,West Indies,8,2471,88,1,4889,129,no result
+Bangladesh,Pakistan,Mirpur,Bangladesh,7,3094,96,9,3721,87,Pakistan
+West Indies,Australia,St Lucia,West Indies,8,2471,88,1,4889,129,West Indies
+West Indies,Australia,St Lucia,West Indies,8,2471,88,1,4889,129,Australia
+Sri Lanka,Pakistan,NA,Sri Lanka,5,5811,106,9,3721,87,Pakistan
+Sri Lanka,Pakistan,NA,Sri Lanka,5,5811,106,9,3721,87,Sri Lanka
+Sri Lanka,Pakistan,Colombo,Sri Lanka,5,5811,106,9,3721,87,no result
+England,West Indies,Southampton,England,6,3968,98,8,2471,88,England
+Sri Lanka,Pakistan,Colombo,Sri Lanka,5,5811,106,9,3721,87,Sri Lanka
+Sri Lanka,Pakistan,Colombo,Sri Lanka,5,5811,106,9,3721,87,Sri Lanka
+England,West Indies,London,England,6,3968,98,8,2471,88,England
+Ireland,Australia,Belfast,Ireland,10,549,50,1,4889,129,no result
+England,Australia,London,England,6,3968,98,1,4889,129,England
+England,Australia,London,England,6,3968,98,1,4889,129,England
+Ireland,Afghanistan,Dublin,Ireland,10,549,50,12,618,41,Ireland
+West Indies,New Zealand,Jamaica,West Indies,8,2471,88,3,4284,116,West Indies
+England,Australia,Chester-le-Street,England,6,3968,98,1,4889,129,England
+West Indies,New Zealand,Jamaica,West Indies,8,2471,88,3,4284,116,West Indies
+England,Australia,Manchester,England,6,3968,98,1,4889,129,England
+West Indies,New Zealand,St Kitts,West Indies,8,2471,88,3,4284,116,New Zealand
+West Indies,New Zealand,St Kitts,West Indies,8,2471,88,3,4284,116,West Indies
+West Indies,New Zealand,St Kitts,West Indies,8,2471,88,3,4284,116,West Indies
+Sri Lanka,India,Hambantota,Sri Lanka,5,5811,106,2,5278,117,India
+Sri Lanka,India,Hambantota,Sri Lanka,5,5811,106,2,5278,117,Sri Lanka
+Sri Lanka,India,Colombo,Sri Lanka,5,5811,106,2,5278,117,India
+Sri Lanka,India,Colombo,Sri Lanka,5,5811,106,2,5278,117,India
+Sri Lanka,India,NA,Sri Lanka,5,5811,106,2,5278,117,India
+England,South Africa,Cardiff,England,6,3968,98,4,5131,112,no result
+Afghanistan,Australia,NA,none,12,618,41,1,4889,129,Australia
+Australia,Pakistan,NA,none,1,4889,129,9,3721,87,Australia
+England,South Africa,Southampton,England,6,3968,98,4,5131,112,South Africa
+Australia,Pakistan,Abu Dhabi,none,1,4889,129,9,3721,87,Pakistan
+England,South Africa,London,England,6,3968,98,4,5131,112,England
+England,South Africa,London,England,6,3968,98,4,5131,112,England
+Australia,Pakistan,NA,none,1,4889,129,9,3721,87,Australia
+England,South Africa,Nottingham,England,6,3968,98,4,5131,112,South Africa
+Sri Lanka,New Zealand,NA,Sri Lanka,5,5811,106,3,4284,116,Sri Lanka
+Sri Lanka,New Zealand,NA,Sri Lanka,5,5811,106,3,4284,116,Sri Lanka
+Sri Lanka,New Zealand,Hambantota,Sri Lanka,5,5811,106,3,4284,116,Sri Lanka
+Sri Lanka,New Zealand,Hambantota,Sri Lanka,5,5811,106,3,4284,116,no result
+Bangladesh,West Indies,Khulna,Bangladesh,7,3094,96,8,2471,88,Bangladesh
+Bangladesh,West Indies,Khulna,Bangladesh,7,3094,96,8,2471,88,Bangladesh
+Bangladesh,West Indies,Mirpur,Bangladesh,7,3094,96,8,2471,88,West Indies
+Bangladesh,West Indies,Mirpur,Bangladesh,7,3094,96,8,2471,88,West Indies
+Bangladesh,West Indies,Mirpur,Bangladesh,7,3094,96,8,2471,88,Bangladesh
+India,Pakistan,Chennai,India,2,5278,117,9,3721,87,Pakistan
+India,Pakistan,Kolkata,India,2,5278,117,9,3721,87,Pakistan
+India,Pakistan,Delhi,India,2,5278,117,9,3721,87,India
+Australia,Sri Lanka,NA,Australia,1,4889,129,5,5811,106,Australia
+India,England,Rajkot,India,2,5278,117,6,3968,98,England
+Australia,Sri Lanka,NA,Australia,1,4889,129,5,5811,106,Sri Lanka
+India,England,Kochi,India,2,5278,117,6,3968,98,India
+Australia,Sri Lanka,Brisbane,Australia,1,4889,129,5,5811,106,Sri Lanka
+India,England,Ranchi,India,2,5278,117,6,3968,98,India
+South Africa,New Zealand,Paarl,South Africa,4,5131,112,3,4284,116,New Zealand
+Australia,Sri Lanka,NA,Australia,1,4889,129,5,5811,106,no result
+South Africa,New Zealand,Kimberley,South Africa,4,5131,112,3,4284,116,New Zealand
+Australia,Sri Lanka,Hobart,Australia,1,4889,129,5,5811,106,Australia
+India,England,Chandigarh,India,2,5278,117,6,3968,98,India
+South Africa,New Zealand,Potchefstroom,South Africa,4,5131,112,3,4284,116,South Africa
+India,England,Dharamsala,India,2,5278,117,6,3968,98,England
+Australia,West Indies,Perth,Australia,1,4889,129,8,2471,88,Australia
+Australia,West Indies,Perth,Australia,1,4889,129,8,2471,88,Australia
+Australia,West Indies,Canberra,Australia,1,4889,129,8,2471,88,Australia
+Australia,West Indies,NA,Australia,1,4889,129,8,2471,88,Australia
+Australia,West Indies,NA,Australia,1,4889,129,8,2471,88,Australia
+New Zealand,England,Hamilton,none,3,4284,116,6,3968,98,New Zealand
+New Zealand,England,Napier,New Zealand,3,4284,116,6,3968,98,England
+West Indies,Zimbabwe,Grenada,West Indies,8,2471,88,11,1250,45,West Indies
+New Zealand,England,Auckland,New Zealand,3,4284,116,6,3968,98,England
+West Indies,Zimbabwe,Grenada,West Indies,8,2471,88,11,1250,45,West Indies
+South Africa,Pakistan,Bloemfontein,South Africa,4,5131,112,9,3721,87,South Africa
+South Africa,Pakistan,Centurion,South Africa,4,5131,112,9,3721,87,Pakistan
+South Africa,Pakistan,Johannesburg,South Africa,4,5131,112,9,3721,87,South Africa
+South Africa,Pakistan,Durban,South Africa,4,5131,112,9,3721,87,Pakistan
+Sri Lanka,Bangladesh,Hambantota,Sri Lanka,5,5811,106,7,3094,96,Sri Lanka
+South Africa,Pakistan,Benoni,South Africa,4,5131,112,9,3721,87,South Africa
+Sri Lanka,Bangladesh,Hambantota,Sri Lanka,5,5811,106,7,3094,96,no result
+Sri Lanka,Bangladesh,NA,Sri Lanka,5,5811,106,7,3094,96,Bangladesh
+Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,11,1250,45,7,3094,96,Bangladesh
+Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,11,1250,45,7,3094,96,Zimbabwe
+Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,11,1250,45,7,3094,96,Zimbabwe
+Scotland,Pakistan,Edinburgh,Scotland,14,200,25,9,3721,87,Pakistan
+Ireland,Pakistan,Dublin,Ireland,10,549,50,9,3721,87,no result
+Ireland,Pakistan,Dublin,Ireland,10,549,50,9,3721,87,Pakistan
+England,New Zealand,London,England,6,3968,98,3,4284,116,New Zealand
+England,New Zealand,Southampton,England,6,3968,98,3,4284,116,New Zealand
+England,New Zealand,Nottingham,England,6,3968,98,3,4284,116,England
+India,South Africa,Cardiff,none,2,5278,117,4,5131,112,India
+Pakistan,West Indies,London,none,9,3721,87,8,2471,88,West Indies
+England,Australia,Birmingham,England,6,3968,98,1,4889,129,England
+New Zealand,Sri Lanka,Cardiff,none,3,4284,116,5,5811,106,New Zealand
+Pakistan,South Africa,Birmingham,none,9,3721,87,4,5131,112,South Africa
+India,West Indies,London,none,2,5278,117,8,2471,88,India
+Australia,New Zealand,Birmingham,none,1,4889,129,3,4284,116,no result
+England,Sri Lanka,London,England,6,3968,98,5,5811,106,Sri Lanka
+South Africa,West Indies,Cardiff,none,4,5131,112,8,2471,88,no result
+India,Pakistan,Birmingham,none,2,5278,117,9,3721,87,India
+England,New Zealand,Cardiff,England,6,3968,98,3,4284,116,England
+Australia,Sri Lanka,London,none,1,4889,129,5,5811,106,Sri Lanka
+England,South Africa,London,England,6,3968,98,4,5131,112,England
+India,Sri Lanka,Cardiff,none,2,5278,117,5,5811,106,India
+England,India,Birmingham,England,6,3968,98,2,5278,117,India
+West Indies,Sri Lanka,Jamaica,West Indies,8,2471,88,5,5811,106,West Indies
+West Indies,India,Jamaica,West Indies,8,2471,88,2,5278,117,West Indies
+India,Sri Lanka,Jamaica,none,2,5278,117,5,5811,106,Sri Lanka
+West Indies,India,Trinidad,West Indies,8,2471,88,2,5278,117,India
+West Indies,Sri Lanka,Trinidad,West Indies,8,2471,88,5,5811,106,Sri Lanka
+India,Sri Lanka,Trinidad,none,2,5278,117,5,5811,106,India
+India,Sri Lanka,Trinidad,none,2,5278,117,5,5811,106,India
+West Indies,Pakistan,Guyana,West Indies,8,2471,88,9,3721,87,Pakistan
+West Indies,Pakistan,Guyana,West Indies,8,2471,88,9,3721,87,West Indies
+West Indies,Pakistan,St Lucia,West Indies,8,2471,88,9,3721,87,no result
+Sri Lanka,South Africa,Colombo,Sri Lanka,5,5811,106,4,5131,112,Sri Lanka
+West Indies,Pakistan,St Lucia,West Indies,8,2471,88,9,3721,87,Pakistan
+Sri Lanka,South Africa,Colombo,Sri Lanka,5,5811,106,4,5131,112,Sri Lanka
+West Indies,Pakistan,St Lucia,West Indies,8,2471,88,9,3721,87,Pakistan
+Zimbabwe,India,NA,Zimbabwe,11,1250,45,2,5278,117,India
+Sri Lanka,South Africa,NA,Sri Lanka,5,5811,106,4,5131,112,South Africa
+Zimbabwe,India,NA,Zimbabwe,11,1250,45,2,5278,117,India
+Sri Lanka,South Africa,NA,Sri Lanka,5,5811,106,4,5131,112,Sri Lanka
+Zimbabwe,India,NA,Zimbabwe,11,1250,45,2,5278,117,India
+Sri Lanka,South Africa,Colombo,Sri Lanka,5,5811,106,4,5131,112,Sri Lanka
+Zimbabwe,India,Bulawayo,Zimbabwe,11,1250,45,2,5278,117,India
+Zimbabwe,India,Bulawayo,Zimbabwe,11,1250,45,2,5278,117,India
+Zimbabwe,Pakistan,NA,Zimbabwe,11,1250,45,9,3721,87,Zimbabwe
+Zimbabwe,Pakistan,NA,Zimbabwe,11,1250,45,9,3721,87,Pakistan
+Zimbabwe,Pakistan,NA,Zimbabwe,11,1250,45,9,3721,87,Pakistan
+Ireland,England,Dublin,Ireland,10,549,50,6,3968,98,England
+Ireland,Scotland,Belfast,Ireland,10,549,50,14,200,25,Ireland
+England,Australia,Manchester,England,6,3968,98,1,4889,129,Australia
+England,Australia,Birmingham,England,6,3968,98,1,4889,129,no result
+England,Australia,Cardiff,England,6,3968,98,1,4889,129,England
+England,Australia,Southampton,England,6,3968,98,1,4889,129,Australia
+India,Australia,Pune,India,2,5278,117,1,4889,129,Australia
+India,Australia,Jaipur,India,2,5278,117,1,4889,129,India
+India,Australia,Chandigarh,India,2,5278,117,1,4889,129,Australia
+India,Australia,Ranchi,India,2,5278,117,1,4889,129,no result
+Bangladesh,New Zealand,Mirpur,Bangladesh,7,3094,96,3,4284,116,Bangladesh
+India,Australia,Nagpur,India,2,5278,117,1,4889,129,India
+Pakistan,South Africa,NA,none,9,3721,87,4,5131,112,South Africa
+Bangladesh,New Zealand,Mirpur,Bangladesh,7,3094,96,3,4284,116,Bangladesh
+Pakistan,South Africa,NA,none,9,3721,87,4,5131,112,Pakistan
+India,Australia,Bangalore,India,2,5278,117,1,4889,129,India
+Bangladesh,New Zealand,Fatullah,Bangladesh,7,3094,96,3,4284,116,Bangladesh
+Pakistan,South Africa,Abu Dhabi,none,9,3721,87,4,5131,112,South Africa
+Pakistan,South Africa,Abu Dhabi,none,9,3721,87,4,5131,112,South Africa
+Sri Lanka,New Zealand,Hambantota,Sri Lanka,5,5811,106,3,4284,116,no result
+Pakistan,South Africa,NA,none,9,3721,87,4,5131,112,South Africa
+Sri Lanka,New Zealand,Hambantota,Sri Lanka,5,5811,106,3,4284,116,New Zealand
+Sri Lanka,New Zealand,NA,Sri Lanka,5,5811,106,3,4284,116,Sri Lanka
+India,West Indies,Kochi,India,2,5278,117,8,2471,88,India
+India,West Indies,Visakhapatnam,India,2,5278,117,8,2471,88,West Indies
+South Africa,Pakistan,Cape Town,South Africa,4,5131,112,9,3721,87,Pakistan
+India,West Indies,Kanpur,India,2,5278,117,8,2471,88,India
+South Africa,Pakistan,Port Elizabeth,South Africa,4,5131,112,9,3721,87,Pakistan
+South Africa,Pakistan,Centurion,South Africa,4,5131,112,9,3721,87,South Africa
+South Africa,India,Johannesburg,South Africa,4,5131,112,2,5278,117,South Africa
+South Africa,India,Durban,South Africa,4,5131,112,2,5278,117,South Africa
+South Africa,India,Centurion,South Africa,4,5131,112,2,5278,117,no result
+Pakistan,Sri Lanka,NA,none,9,3721,87,5,5811,106,Pakistan
+Pakistan,Sri Lanka,NA,none,9,3721,87,5,5811,106,Sri Lanka
+Pakistan,Sri Lanka,NA,none,9,3721,87,5,5811,106,Pakistan
+Pakistan,Sri Lanka,Abu Dhabi,none,9,3721,87,5,5811,106,Pakistan
+New Zealand,West Indies,Auckland,New Zealand,3,4284,116,8,2471,88,West Indies
+Pakistan,Sri Lanka,Abu Dhabi,none,9,3721,87,5,5811,106,Sri Lanka
+New Zealand,West Indies,NA,New Zealand,3,4284,116,8,2471,88,New Zealand
+New Zealand,West Indies,Nelson,New Zealand,3,4284,116,8,2471,88,New Zealand
+New Zealand,West Indies,Hamilton,none,3,4284,116,8,2471,88,West Indies
+Australia,England,NA,Australia,1,4889,129,6,3968,98,Australia
+Australia,England,Brisbane,Australia,1,4889,129,6,3968,98,Australia
+Australia,England,NA,Australia,1,4889,129,6,3968,98,Australia
+New Zealand,India,Napier,New Zealand,3,4284,116,2,5278,117,New Zealand
+New Zealand,India,Hamilton,none,3,4284,116,2,5278,117,New Zealand
+Australia,England,Perth,Australia,1,4889,129,6,3968,98,England
+New Zealand,India,Auckland,New Zealand,3,4284,116,2,5278,117,no result
+Australia,England,NA,Australia,1,4889,129,6,3968,98,Australia
+New Zealand,India,Hamilton,none,3,4284,116,2,5278,117,New Zealand
+New Zealand,India,Wellington,New Zealand,3,4284,116,2,5278,117,New Zealand
+Bangladesh,Sri Lanka,Mirpur,Bangladesh,7,3094,96,5,5811,106,Sri Lanka
+Bangladesh,Sri Lanka,Mirpur,Bangladesh,7,3094,96,5,5811,106,Sri Lanka
+Bangladesh,Sri Lanka,Mirpur,Bangladesh,7,3094,96,5,5811,106,Sri Lanka
+West Indies,Ireland,Jamaica,West Indies,8,2471,88,10,549,50,West Indies
+Pakistan,Sri Lanka,Fatullah,none,9,3721,87,5,5811,106,Sri Lanka
+Bangladesh,India,Fatullah,Bangladesh,7,3094,96,2,5278,117,India
+Afghanistan,Pakistan,Fatullah,none,12,618,41,9,3721,87,Pakistan
+India,Sri Lanka,Fatullah,none,2,5278,117,5,5811,106,Sri Lanka
+West Indies,England,Antigua,West Indies,8,2471,88,6,3968,98,West Indies
+Bangladesh,Afghanistan,Fatullah,Bangladesh,7,3094,96,12,618,41,Afghanistan
+India,Pakistan,Mirpur,none,2,5278,117,9,3721,87,Pakistan
+West Indies,England,Antigua,West Indies,8,2471,88,6,3968,98,England
+Afghanistan,Sri Lanka,Mirpur,none,12,618,41,5,5811,106,Sri Lanka
+Bangladesh,Pakistan,Mirpur,Bangladesh,7,3094,96,9,3721,87,Pakistan
+Afghanistan,India,Mirpur,none,12,618,41,2,5278,117,India
+West Indies,England,Antigua,West Indies,8,2471,88,6,3968,98,England
+Bangladesh,Sri Lanka,Mirpur,Bangladesh,7,3094,96,5,5811,106,Sri Lanka
+Pakistan,Sri Lanka,Mirpur,none,9,3721,87,5,5811,106,Sri Lanka
+Afghanistan,United Arab Emirates,Kuala Lumpur,none,12,618,41,13,300,32,Afghanistan
+Ireland,Sri Lanka,Dublin,Ireland,10,549,50,5,5811,106,Sri Lanka
+Scotland,England,Aberdeen,Scotland,14,200,25,6,3968,98,England
+England,Sri Lanka,London,England,6,3968,98,5,5811,106,England
+England,Sri Lanka,Chester-le-Street,England,6,3968,98,5,5811,106,Sri Lanka
+England,Sri Lanka,Manchester,England,6,3968,98,5,5811,106,England
+England,Sri Lanka,London,England,6,3968,98,5,5811,106,Sri Lanka
+England,Sri Lanka,Birmingham,England,6,3968,98,5,5811,106,Sri Lanka
+Bangladesh,India,Mirpur,Bangladesh,7,3094,96,2,5278,117,India
+Bangladesh,India,Mirpur,Bangladesh,7,3094,96,2,5278,117,India
+Bangladesh,India,Mirpur,Bangladesh,7,3094,96,2,5278,117,no result
+Sri Lanka,South Africa,Colombo,Sri Lanka,5,5811,106,4,5131,112,South Africa
+Sri Lanka,South Africa,NA,Sri Lanka,5,5811,106,4,5131,112,Sri Lanka
+Sri Lanka,South Africa,Hambantota,Sri Lanka,5,5811,106,4,5131,112,South Africa
+Zimbabwe,Afghanistan,Bulawayo,Zimbabwe,11,1250,45,12,618,41,Zimbabwe
+Zimbabwe,Afghanistan,Bulawayo,Zimbabwe,11,1250,45,12,618,41,Afghanistan
+Zimbabwe,Afghanistan,Bulawayo,Zimbabwe,11,1250,45,12,618,41,Afghanistan
+Zimbabwe,South Africa,Bulawayo,Zimbabwe,11,1250,45,4,5131,112,South Africa
+Zimbabwe,South Africa,Bulawayo,Zimbabwe,11,1250,45,4,5131,112,South Africa
+West Indies,Bangladesh,Grenada,West Indies,8,2471,88,7,3094,96,West Indies
+Zimbabwe,South Africa,Bulawayo,Zimbabwe,11,1250,45,4,5131,112,South Africa
+West Indies,Bangladesh,Grenada,West Indies,8,2471,88,7,3094,96,West Indies
+Sri Lanka,Pakistan,Hambantota,Sri Lanka,5,5811,106,9,3721,87,Pakistan
+West Indies,Bangladesh,St Kitts,West Indies,8,2471,88,7,3094,96,West Indies
+Zimbabwe,Australia,NA,Zimbabwe,11,1250,45,1,4889,129,Australia
+Sri Lanka,Pakistan,Hambantota,Sri Lanka,5,5811,106,9,3721,87,Sri Lanka
+Australia,South Africa,NA,none,1,4889,129,4,5131,112,South Africa
+England,India,Cardiff,England,6,3968,98,2,5278,117,India
+Zimbabwe,South Africa,NA,Zimbabwe,11,1250,45,4,5131,112,South Africa
+England,India,Nottingham,England,6,3968,98,2,5278,117,India
+Sri Lanka,Pakistan,NA,Sri Lanka,5,5811,106,9,3721,87,Sri Lanka
+Zimbabwe,Australia,NA,Zimbabwe,11,1250,45,1,4889,129,Zimbabwe
+Australia,South Africa,NA,none,1,4889,129,4,5131,112,Australia
+England,India,Birmingham,England,6,3968,98,2,5278,117,India
+Zimbabwe,South Africa,NA,Zimbabwe,11,1250,45,4,5131,112,South Africa
+England,India,Leeds,England,6,3968,98,2,5278,117,England
+Australia,South Africa,NA,none,1,4889,129,4,5131,112,South Africa
+Ireland,Scotland,Dublin,Ireland,10,549,50,14,200,25,Ireland
+Ireland,Scotland,Dublin,Ireland,10,549,50,14,200,25,Ireland
+Ireland,Scotland,Dublin,Ireland,10,549,50,14,200,25,Scotland
+Australia,Pakistan,NA,none,1,4889,129,9,3721,87,Australia
+India,West Indies,Kochi,India,2,5278,117,8,2471,88,West Indies
+Australia,Pakistan,NA,none,1,4889,129,9,3721,87,Australia
+India,West Indies,Delhi,India,2,5278,117,8,2471,88,India
+Australia,Pakistan,Abu Dhabi,none,1,4889,129,9,3721,87,Australia
+India,West Indies,Dharmasala,India,2,5278,117,8,2471,88,India
+New Zealand,South Africa,Mount Maunganui,New Zealand,3,4284,116,4,5131,112,South Africa
+New Zealand,South Africa,Mount Maunganui,New Zealand,3,4284,116,4,5131,112,South Africa
+New Zealand,South Africa,Hamilton,none,3,4284,116,4,5131,112,no result
+India,Sri Lanka,Cuttack,India,2,5278,117,5,5811,106,India
+India,Sri Lanka,Ahmedabad,India,2,5278,117,5,5811,106,India
+India,Sri Lanka,Hyderabad,India,2,5278,117,5,5811,106,India
+India,Sri Lanka,Kolkata,India,2,5278,117,5,5811,106,India
+Australia,South Africa,Perth,Australia,1,4889,129,4,5131,112,Australia
+Australia,South Africa,Perth,Australia,1,4889,129,4,5131,112,South Africa
+India,Sri Lanka,Ranchi,India,2,5278,117,5,5811,106,India
+Australia,South Africa,Canberra,Australia,1,4889,129,4,5131,112,Australia
+Australia,South Africa,NA,Australia,1,4889,129,4,5131,112,Australia
+Bangladesh,Zimbabwe,Chittagong,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+Australia,South Africa,NA,Australia,1,4889,129,4,5131,112,Australia
+Bangladesh,Zimbabwe,Chittagong,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+Bangladesh,Zimbabwe,Mirpur,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+Sri Lanka,England,Colombo,Sri Lanka,5,5811,106,6,3968,98,Sri Lanka
+Bangladesh,Zimbabwe,Mirpur,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+United Arab Emirates,Afghanistan,Dubai,United Arab Emirates,13,300,32,12,618,41,United Arab Emirates
+Sri Lanka,England,Colombo,Sri Lanka,5,5811,106,6,3968,98,Sri Lanka
+United Arab Emirates,Afghanistan,Dubai,United Arab Emirates,13,300,32,12,618,41,United Arab Emirates
+Bangladesh,Zimbabwe,Mirpur,Bangladesh,7,3094,96,11,1250,45,Bangladesh
+Sri Lanka,England,Hambantota,Sri Lanka,5,5811,106,6,3968,98,England
+Sri Lanka,England,Colombo,Sri Lanka,5,5811,106,6,3968,98,Sri Lanka
+New Zealand,Pakistan,NA,none,3,4284,116,9,3721,87,Pakistan
+Sri Lanka,England,NA,Sri Lanka,5,5811,106,6,3968,98,England
+New Zealand,Pakistan,NA,none,3,4284,116,9,3721,87,New Zealand
+Sri Lanka,England,NA,Sri Lanka,5,5811,106,6,3968,98,Sri Lanka
+New Zealand,Pakistan,NA,none,3,4284,116,9,3721,87,Pakistan
+Sri Lanka,England,Colombo,Sri Lanka,5,5811,106,6,3968,98,Sri Lanka
+New Zealand,Pakistan,Abu Dhabi,none,3,4284,116,9,3721,87,New Zealand
+New Zealand,Pakistan,Abu Dhabi,none,3,4284,116,9,3721,87,New Zealand
+Afghanistan,Scotland,Dubai,none,12,618,41,14,200,25,Afghanistan
+New Zealand,Sri Lanka,Christchurch,New Zealand,3,4284,116,5,5811,106,New Zealand
+Ireland,Scotland,NA,none,10,549,50,14,200,25,Ireland
+Afghanistan,Scotland,Abu Dhabi,none,12,618,41,14,200,25,Scotland
+New Zealand,Sri Lanka,Hamilton,none,3,4284,116,5,5811,106,Sri Lanka
+Australia,England,NA,Australia,1,4889,129,6,3968,98,Australia
+South Africa,West Indies,Durban,South Africa,4,5131,112,8,2471,88,South Africa
+Afghanistan,Ireland,NA,none,12,618,41,10,549,50,Afghanistan
+New Zealand,Sri Lanka,Auckland,New Zealand,3,4284,116,5,5811,106,no result
+Australia,India,NA,Australia,1,4889,129,2,5278,117,Australia
+South Africa,West Indies,Johannesburg,South Africa,4,5131,112,8,2471,88,South Africa
+England,India,Brisbane,none,6,3968,98,2,5278,117,England
+New Zealand,Sri Lanka,Nelson,New Zealand,3,4284,116,5,5811,106,New Zealand
+South Africa,West Indies,East London,South Africa,4,5131,112,8,2471,88,South Africa
+Australia,England,Hobart,Australia,1,4889,129,6,3968,98,Australia
+New Zealand,Sri Lanka,Dunedin,New Zealand,3,4284,116,5,5811,106,New Zealand
+New Zealand,Sri Lanka,Dunedin,New Zealand,3,4284,116,5,5811,106,New Zealand
+South Africa,West Indies,Port Elizabeth,South Africa,4,5131,112,8,2471,88,West Indies
+Australia,India,NA,Australia,1,4889,129,2,5278,117,no result
+South Africa,West Indies,Centurion,South Africa,4,5131,112,8,2471,88,South Africa
+New Zealand,Sri Lanka,Wellington,New Zealand,3,4284,116,5,5811,106,Sri Lanka
+England,India,Perth,none,6,3968,98,2,5278,117,England
+New Zealand,Pakistan,Wellington,New Zealand,3,4284,116,9,3721,87,New Zealand
+Australia,England,Perth,Australia,1,4889,129,6,3968,98,Australia
+New Zealand,Pakistan,Napier,New Zealand,3,4284,116,9,3721,87,New Zealand
+Australia,England,NA,Australia,1,4889,129,6,3968,98,Australia
+New Zealand,Sri Lanka,Christchurch,New Zealand,3,4284,116,5,5811,106,New Zealand
+India,Pakistan,NA,none,2,5278,117,9,3721,87,India
+South Africa,Zimbabwe,Hamilton,none,4,5131,112,11,1250,45,South Africa
+Ireland,West Indies,Nelson,none,10,549,50,8,2471,88,Ireland
+New Zealand,Scotland,Dunedin,New Zealand,3,4284,116,14,200,25,New Zealand
+Afghanistan,Bangladesh,Canberra,none,12,618,41,7,3094,96,Bangladesh
+United Arab Emirates,Zimbabwe,Nelson,none,13,300,32,11,1250,45,Zimbabwe
+New Zealand,England,Wellington,New Zealand,3,4284,116,6,3968,98,New Zealand
+Pakistan,West Indies,Christchurch,none,9,3721,87,8,2471,88,West Indies
+Afghanistan,Sri Lanka,Dunedin,none,12,618,41,5,5811,106,Sri Lanka
+India,South Africa,NA,none,2,5278,117,4,5131,112,India
+England,Scotland,Christchurch,none,6,3968,98,14,200,25,England
+West Indies,Zimbabwe,Canberra,none,8,2471,88,11,1250,45,West Indies
+Ireland,United Arab Emirates,Brisbane,none,10,549,50,13,300,32,Ireland
+Afghanistan,Scotland,Dunedin,none,12,618,41,14,200,25,Afghanistan
+Bangladesh,Sri Lanka,NA,none,7,3094,96,5,5811,106,Sri Lanka
+South Africa,West Indies,NA,none,4,5131,112,8,2471,88,South Africa
+India,United Arab Emirates,Perth,none,2,5278,117,13,300,32,India
+New Zealand,Australia,Auckland,New Zealand,3,4284,116,1,4889,129,New Zealand
+England,Sri Lanka,Wellington,none,6,3968,98,5,5811,106,Sri Lanka
+Pakistan,Zimbabwe,Brisbane,none,9,3721,87,11,1250,45,Pakistan
+Ireland,South Africa,Canberra,none,10,549,50,4,5131,112,South Africa
+Australia,Afghanistan,Perth,Australia,1,4889,129,12,618,41,Australia
+Pakistan,United Arab Emirates,Napier,none,9,3721,87,13,300,32,Pakistan
+Bangladesh,Scotland,Nelson,none,7,3094,96,14,200,25,Bangladesh
+India,West Indies,Perth,none,2,5278,117,8,2471,88,India
+Ireland,Zimbabwe,Hobart,none,10,549,50,11,1250,45,Ireland
+Pakistan,South Africa,Auckland,none,9,3721,87,4,5131,112,Pakistan
+Australia,Sri Lanka,NA,Australia,1,4889,129,5,5811,106,Australia
+New Zealand,Afghanistan,Napier,New Zealand,3,4284,116,12,618,41,New Zealand
+Bangladesh,England,NA,none,7,3094,96,6,3968,98,Bangladesh
+India,Ireland,Hamilton,none,2,5278,117,10,549,50,India
+Scotland,Sri Lanka,Hobart,none,14,200,25,5,5811,106,Sri Lanka
+South Africa,United Arab Emirates,Wellington,none,4,5131,112,13,300,32,South Africa
+Afghanistan,England,NA,none,12,618,41,6,3968,98,England
+New Zealand,Bangladesh,Hamilton,none,3,4284,116,7,3094,96,New Zealand
+Australia,Scotland,Hobart,Australia,1,4889,129,14,200,25,Australia
+India,Zimbabwe,Auckland,none,2,5278,117,11,1250,45,India
+Ireland,Pakistan,NA,none,10,549,50,9,3721,87,Pakistan
+United Arab Emirates,West Indies,Napier,none,13,300,32,8,2471,88,West Indies
+South Africa,Sri Lanka,NA,none,4,5131,112,5,5811,106,South Africa
+Bangladesh,India,NA,none,7,3094,96,2,5278,117,India
+Australia,Pakistan,NA,Australia,1,4889,129,9,3721,87,Australia
+New Zealand,West Indies,Wellington,New Zealand,3,4284,116,8,2471,88,New Zealand
+New Zealand,South Africa,Auckland,New Zealand,3,4284,116,4,5131,112,New Zealand
+Australia,India,NA,Australia,1,4889,129,2,5278,117,Australia
+Australia,New Zealand,NA,Australia,1,4889,129,3,4284,116,Australia
+Bangladesh,Pakistan,Mirpur,Bangladesh,7,3094,96,9,3721,87,Bangladesh
+Bangladesh,Pakistan,Mirpur,Bangladesh,7,3094,96,9,3721,87,Bangladesh
+Bangladesh,Pakistan,Mirpur,Bangladesh,7,3094,96,9,3721,87,Bangladesh
+Ireland,England,Dublin,Ireland,10,549,50,6,3968,98,no result
+Pakistan,Zimbabwe,Lahore,Pakistan,9,3721,87,11,1250,45,Pakistan
+Pakistan,Zimbabwe,Lahore,Pakistan,9,3721,87,11,1250,45,Pakistan
+Pakistan,Zimbabwe,Lahore,Pakistan,9,3721,87,11,1250,45,no result
+England,New Zealand,Birmingham,England,6,3968,98,3,4284,116,England
+England,New Zealand,London,England,6,3968,98,3,4284,116,New Zealand
+England,New Zealand,Southampton,England,6,3968,98,3,4284,116,New Zealand
+England,New Zealand,Nottingham,England,6,3968,98,3,4284,116,England
+Bangladesh,India,Mirpur,Bangladesh,7,3094,96,2,5278,117,Bangladesh
+England,New Zealand,Chester-le-Street,England,6,3968,98,3,4284,116,England
+Bangladesh,India,Mirpur,Bangladesh,7,3094,96,2,5278,117,Bangladesh
+Bangladesh,India,Mirpur,Bangladesh,7,3094,96,2,5278,117,India
+Bangladesh,South Africa,Mirpur,Bangladesh,7,3094,96,4,5131,112,South Africa
+Zimbabwe,India,NA,Zimbabwe,11,1250,45,2,5278,117,India
+Sri Lanka,Pakistan,NA,Sri Lanka,5,5811,106,9,3721,87,Pakistan
+Bangladesh,South Africa,Mirpur,Bangladesh,7,3094,96,4,5131,112,Bangladesh
+Zimbabwe,India,NA,Zimbabwe,11,1250,45,2,5278,117,India
+Zimbabwe,India,NA,Zimbabwe,11,1250,45,2,5278,117,India
+Bangladesh,South Africa,Chittagong,Bangladesh,7,3094,96,4,5131,112,Bangladesh
+Sri Lanka,Pakistan,NA,Sri Lanka,5,5811,106,9,3721,87,Sri Lanka
+Sri Lanka,Pakistan,Colombo,Sri Lanka,5,5811,106,9,3721,87,Pakistan
+Sri Lanka,Pakistan,Colombo,Sri Lanka,5,5811,106,9,3721,87,Pakistan
+Sri Lanka,Pakistan,Hambantota,Sri Lanka,5,5811,106,9,3721,87,Sri Lanka
+Zimbabwe,New Zealand,NA,Zimbabwe,11,1250,45,3,4284,116,Zimbabwe
+Zimbabwe,New Zealand,NA,Zimbabwe,11,1250,45,3,4284,116,New Zealand
+Zimbabwe,New Zealand,NA,Zimbabwe,11,1250,45,3,4284,116,New Zealand
+South Africa,New Zealand,Centurion,South Africa,4,5131,112,3,4284,116,South Africa
+South Africa,New Zealand,Potchefstroom,South Africa,4,5131,112,3,4284,116,New Zealand
+South Africa,New Zealand,Durban,South Africa,4,5131,112,3,4284,116,South Africa
+Ireland,Australia,Belfast,Ireland,10,549,50,1,4889,129,Australia
+England,Australia,Southampton,England,6,3968,98,1,4889,129,Australia
+England,Australia,London,England,6,3968,98,1,4889,129,Australia
+England,Australia,Manchester,England,6,3968,98,1,4889,129,England
+England,Australia,Leeds,England,6,3968,98,1,4889,129,England
+England,Australia,Manchester,England,6,3968,98,1,4889,129,Australia
+Zimbabwe,Pakistan,NA,Zimbabwe,11,1250,45,9,3721,87,Pakistan
+Zimbabwe,Pakistan,NA,Zimbabwe,11,1250,45,9,3721,87,Zimbabwe
+Zimbabwe,Pakistan,NA,Zimbabwe,11,1250,45,9,3721,87,Pakistan
+Zimbabwe,Ireland,NA,Zimbabwe,11,1250,45,10,549,50,Zimbabwe
+India,South Africa,Kanpur,India,2,5278,117,4,5131,112,South Africa
+Zimbabwe,Ireland,NA,Zimbabwe,11,1250,45,10,549,50,Zimbabwe
+Zimbabwe,Ireland,NA,Zimbabwe,11,1250,45,10,549,50,Ireland
+India,South Africa,Indore,India,2,5278,117,4,5131,112,India
+Zimbabwe,Afghanistan,Bulawayo,Zimbabwe,11,1250,45,12,618,41,Zimbabwe
