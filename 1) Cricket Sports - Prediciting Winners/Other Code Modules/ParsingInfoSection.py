@@ -18,7 +18,7 @@ every_row_in_csv_as_list = ['file_name','match_type','data','teamA','teamB','who
 #Write the headings
 for i in range(len(every_row_in_csv_as_list)-1):
     file.write(str(every_row_in_csv_as_list[i])+':')
-file.write(str(every_row_in_csv_as_list[len(every_row_in_csv_as_list)-1]) + '\n')
+file.write(str(every_row_in_csv_as_list[len(every_row_in_csv_as_list)-1]) + '\n' )
 
 #delete all the elements in the list
 del every_row_in_csv_as_list[:]
